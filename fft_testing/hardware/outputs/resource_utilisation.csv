@@ -1,0 +1,46 @@
+,,,,,,,,,,,,,,,,,
+,Wideband Factor = 4,,,,,,,,,,,,,,,,
+,AU50,,,,,,,,,,,,,,,AU50 Resources,
+,FFT Length,FFT Type,FFT Core Only,,,,,,Whole Design,,,,,,,Power Budget,63 W
+,,,LUT as Logic,LUT as Mem,Flip-Flops,BRAM,DSP Slices,,BUFG,MMCM,FPGA Power,HBM Power,Total On-Chip Power,Power Budget Margin,,LUT as Logic,871680
+,1k,ASTRON,9324,2299,11803,4,144,,20,3,13.84 W,5.136 W,18.976 W,44.024 W,,LUT as Mem,403200
+,,CASPER,4420,2727,10995,10.5,52,,20,3,14.021 W,5.136 W,19.157 W,43.843 W,,Flip-Flops,1743360
+,,XILINX,4866,2381,10847,0,36,,19,3,13.931 W,5.136 W,19.067 W,43.933 W,,BRAM,1344
+,16k,ASTRON,13135,20894,25243,80,208,,25,3,14.065 W,5.136 W,19.201 W,43.799 W,,DSP Slices,5952
+,,CASPER,5910,4019,16425,42,68,,19,3,14.263 W,5.137 W,19.4 W,43.6 W,,BUFG,672
+,,XILINX,6844,1627,13750,69.5,54,,19,3,14.386 W,5.138 W,19.523 W,43.477 W,,MMCM,8
+,64k,ASTRON,15525,79438,57994,326,240,,26,3,14.813 W,5.139 W,19.952 W,43.048 W,,,
+,,CASPER,6858,4530,22816,158.5,76,,20,3,14.785 W,5.139 W,19.924 W,43.076 W,,SKARAB Resources,
+,,XILINX,8221,1720,16116,252.5,63,,20,3,15.002 W,5.14 W,20.142 W,42.858 W,,Power Budget,
+,SKARAB,,,,,,,,,,,,,,,LUT as Logic,
+,FFT Length,FFT Type,FFT Core Only,,,,,,Whole Design,,,,,,,LUT as Mem,
+,,,LUT as Logic,LUT as Mem,Flip-Flops,BRAM,DSP Slices,,BUFG,MMCM,FPGA Power,HBM Power,Total On-Chip Power,Power Budget Margin,,Flip-Flops,
+,1k,ASTRON,,,,,,,,,,,,,,BRAM,
+,,CASPER,,,,,,,,,,,,,,DSP Slices,
+,16k,ASTRON,,,,,,,,,,,,,,BUFG,
+,,CASPER,,,,,,,,,,,,,,MMCM,
+,64k,ASTRON,,,,,,,,,,,,,,,
+,,CASPER,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,Wideband Factor = 8,,,,,,,,,,,,,,,,
+,AU50,,,,,,,,,,,,,,,,
+,FFT Length,FFT Type,FFT Core Only,,,,,,Whole Design,,,,,,,,
+,,,LUT as Logic,LUT as Mem,Flip-Flops,BRAM,DSP Slices,,BUFG,MMCM,FPGA Power,HBM Power,Total On-Chip Power,Power Budget Margin,,,
+,1k,ASTRON,17223,3324,21324,8,272,,20,3,14.227 W,5.137 W,19.364 W,43.636 W,,,
+,,CASPER,9452,5173,23500,15.5,116,,19,3,14.636 W,5.139 W,19.775 W,43.225 W,,,
+,,XILINX,,,,,,,,,,,,,,,
+,16k,ASTRON,,,,,,,,,,,,,,,
+,,CASPER,,,,,,,,,,,,,,,
+,,XILINX,,,,,,,,,,,,,,,
+,64k,ASTRON,,,,,,,,,,,,,,,
+,,CASPER,,,,,,,,,,,,,,,
+,,XILINX,,,,,,,,,,,,,,,
+,SKARAB,,,,,,,,,,,,,,,,
+,FFT Length,FFT Type,FFT Core Only,,,,,,Whole Design,,,,,,,,
+,,,LUT as Logic,LUT as Mem,Flip-Flops,BRAM,DSP Slices,,BUFG,MMCM,FPGA Power,HBM Power,Total On-Chip Power,Power Budget Margin,,,
+,1k,ASTRON,,,,,,,,,,,,,,,
+,,CASPER,,,,,,,,,,,,,,,
+,16k,ASTRON,,,,,,,,,,,,,,,
+,,CASPER,,,,,,,,,,,,,,,
+,64k,ASTRON,,,,,,,,,,,,,,,
+,,CASPER,,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+""
+Test Vector Generator 0 Calculations
+tvg0_800msps_50mhz_-10dBsnr
+expected snr,actual snr (time),actual snr (freq),noise rms,actual noise rms,sine rms,actual sine rms,time average power,freq average power
+-10,-10.0424,-10.2448,0.125,0.1256118508335213,0.03952847075210474,0.039528470752102404,0.017268790741690555,0.017268790741690607
+""
+tvg0_800msps_100mhz_-10dBsnr
+expected snr,actual snr (time),actual snr (freq),noise rms,actual noise rms,sine rms,actual sine rms,time average power,freq average power
+-10,-10.0424,-9.9973,0.125,0.1256118508335213,0.03952847075210474,0.039528470752099046,0.017357098021054715,0.017357098021054743
+""
+Test Vector Generator 1 Calculations
+tvg1_800msps_50mhz_92dBsnr
+snr (time),snr (freq),noise rms,actual noise rms,sine max amplitude,sine rms,time average power,freq average power
+92.3996,92.3998,1.52587890625e-05,1.5266811575006664e-05,0.9,0.6364,0.405000018897915,0.40500001889791293
+""
+tvg1_800msps_100mhz_92dBsnr
+snr (time),snr (freq),noise rms,actual noise rms,sine max amplitude,sine rms,time average power,freq average power
+92.3996,92.3997,1.52587890625e-05,1.5266811575006664e-05,0.9,0.6364,0.4050000431052539,0.4050000431052503
+""

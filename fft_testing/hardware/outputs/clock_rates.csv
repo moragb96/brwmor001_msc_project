@@ -1,0 +1,24 @@
+Wideband Factor = 4,,,,,
+,,AU50,,SKARAB,
+FFT Length,FFT Type,Achieved Clock Rate,Estimated Clock Rate,Achieved Clock Rate,Estimated Clock Rate
+1k,ASTRON,400,444,200,217
+,CASPER,600,-,350,369
+,XILINX,600,-,N/A,
+16k,ASTRON,250,294,200,222
+,CASPER,600,-,350,365
+,XILINX,500,533,N/A,
+64k,ASTRON,-,179,-,195
+,CASPER,450,460,350,362
+,XILINX,250,295,N/A,
+Wideband Factor = 8,,,,,
+,,AU50,,SKARAB,
+FFT Length,FFT Type,Achieved Clock Rate,Estimated Clock Rate,Achieved Clock Rate,Estimated Clock Rate
+1k,ASTRON,400,413,200,210
+,CASPER,600,-,300,347
+,XILINX,600,-,N/A,
+16k,ASTRON,300,318,-,192
+,CASPER,550,554,300,344
+,XILINX,600,-,N/A,
+64k,ASTRON,-,190,-,190
+,CASPER,450,469,300,337
+,XILINX,300,349,N/A,
